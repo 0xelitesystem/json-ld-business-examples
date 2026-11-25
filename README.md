@@ -54,7 +54,7 @@ Most schema docs show minimal examples that validate but don't help your page. T
 ## Pairs with
 
 - [json-ld-markup-builder](https://github.com/0xelitesystem/json-ld-markup-builder): generate from a form, validate before publishing
-- [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor): audit your live pages for the schema you put in
+- [page-trust-signals-auditor](https://github.com/0xelitesystem/page-trust-signals-auditor): audit your live pages for the schema you put in
 - [geo-audit-checklist](https://github.com/0xelitesystem/geo-audit-checklist): the structured data section uses these examples as templates
 
 ## More
